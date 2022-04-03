@@ -63,7 +63,7 @@ To run the application you'll need:
 * [Truffle](https://www.trufflesuite.com/)
 * [Ganache](https://www.trufflesuite.com/ganache)
 * Clone the repository:
-  * ```$ git clone https://github.com/BravoNatalie/NFT-Marketplace.git ```
+  * ```$ https://github.com/CryptoBrainStorm0417/AtomoNFT ```
 
 
 Now go to project folder and run:
