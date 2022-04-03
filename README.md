@@ -112,10 +112,11 @@ This project is under the **MIT license**. See the [LICENSE](https://github.com/
 ## :mailbox_with_mail: Get in touch!
 
 <p align="center">
-<a href="https://www.linkedin.com/in/nataliebravo/" target="_blank" >
+<a href="linkedin.com/in/baba-deraman-958a5721a![image](https://user-images.githubusercontent.com/89033750/161406109-1576c914-c3a5-46a0-b15d-fc11cb79c14e.png)" target="_blank" >
   <img alt="Linkedin - Natalie Bravo" src="https://img.shields.io/badge/Linkedin--%23F8952D?style=social&logo=linkedin">
 </a>
-<a href="mailto:natalie.bravo@ice.ufjf.br" target="_blank" >
+<a href="	azminohabdullahdev@gmail.com![Uploading image.png…]()
+" target="_blank" >
   <img alt="Email - Natalie Bravo" src="https://img.shields.io/badge/Email--%23F8952D?style=social&logo=gmail">
 </a> 
 <br/>
