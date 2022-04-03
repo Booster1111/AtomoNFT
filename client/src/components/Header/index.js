@@ -10,7 +10,7 @@ import AccountBalanceWalletIcon from '@material-ui/icons/AccountBalanceWallet';
 
 import {useStyles} from './styles.js'
 
-import logo from '../../assets/Logo.svg';
+import logo from '../../assets/Logo.png';
 
 const Header = () => {
   const classes = useStyles();
@@ -21,9 +21,9 @@ const Header = () => {
       <CssBaseline />
       <AppBar className={classes.header}>
         <Toolbar>
-          <Link to="/">
-            <img src={logo} alt="Galerie" className={classes.logo}/>
-          </Link>
+          {/* <Link to="/">
+            <img width="5" height="50" src={logo} alt="Galerie" className={classes.logo}/>
+          </Link> */}
           <div className={classes.account}>
             <AccountBalanceWalletIcon titleAccess="Wallet Address" className={classes.walletIcon}/>
             <Typography variant="subtitle1">{account.slice(0,7)}...{account.slice(-4)}</Typography>
