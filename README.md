@@ -1,5 +1,5 @@
 <h1 align=center>
-<img src="https://res.cloudinary.com/nataliebravo/image/upload/v1630406853/NFT/banner_npzzzz.png" />
+![1](https://user-images.githubusercontent.com/89033750/161406026-9916ecda-bebf-4d7c-9484-3c2903404792.png)
 </h1>
 
 <div align="center">
