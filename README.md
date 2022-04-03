@@ -1,6 +1,5 @@
-<h1 align=center>
-![1](https://user-images.githubusercontent.com/89033750/161406026-9916ecda-bebf-4d7c-9484-3c2903404792.png)
-</h1>
+![1](https://user-images.githubusercontent.com/89033750/161406030-04c62233-4a88-45ea-b7ac-38234eb13838.png)
+
 
 <div align="center">
   
