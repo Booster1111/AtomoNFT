@@ -106,12 +106,4 @@ There are some things to be done in the project:
 
 ## :page_with_curl: License
 
-This project is under the **MIT license**. See the [LICENSE](https://github.com/BravoNatalie/NFT-Marketplace/blob/master/LICENSE) for more information.
-
-
-## :mailbox_with_mail: Get in touch!
-
-<p align="center">
-<a href="linkedin.com/in/baba-deraman-958a5721a![image](https://user-images.githubusercontent.com/89033750/161406109-1576c914-c3a5-46a0-b15d-fc11cb79c14e.png)" target="_blank" >
-  <img alt="Linkedin - Natalie Bravo" src="https://img.shields.io/badge/Linkedin--%23F8952D?style=social&logo=linkedin">
-</a>
+This project is under the **MIT license**. See the [LICENSE](https://github.com/CryptoBrainStorm0417/AtomoNFT/edit/master/README.md) for more information.
